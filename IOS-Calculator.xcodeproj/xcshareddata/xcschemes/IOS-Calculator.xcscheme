@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8466CFDC24D72AF2001AFDCF"
-               BuildableName = "IOS-Calculator.app"
+               BuildableName = "IOS Calculator.app"
                BlueprintName = "IOS-Calculator"
                ReferencedContainer = "container:IOS-Calculator.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8466CFDC24D72AF2001AFDCF"
-            BuildableName = "IOS-Calculator.app"
+            BuildableName = "IOS Calculator.app"
             BlueprintName = "IOS-Calculator"
             ReferencedContainer = "container:IOS-Calculator.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8466CFDC24D72AF2001AFDCF"
-            BuildableName = "IOS-Calculator.app"
+            BuildableName = "IOS Calculator.app"
             BlueprintName = "IOS-Calculator"
             ReferencedContainer = "container:IOS-Calculator.xcodeproj">
          </BuildableReference>
